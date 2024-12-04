@@ -4,7 +4,7 @@ An Anti-Money Laundering (AML) check is a critical identity verification process
 
 ![preview](/assets/notoca.webp)
 
-<p align="center"> [DOWNLOAD](../../releases)
+[DOWNLOAD](../../releases)
 <br>
 <hr style="border-radius: 2%; margin-top: 45px; margin-bottom: 50px;" noshade="" size="20" width="98%">
 </p>
